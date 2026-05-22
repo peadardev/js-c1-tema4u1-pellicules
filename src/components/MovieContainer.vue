@@ -82,7 +82,6 @@ img {
   font-style: italic;
 }
 .label-in-theaters {
-  /*font-weight: bold;*/
   font-size: 12px;
   font-style: normal;
   color: yellow;
